@@ -3,6 +3,8 @@ header{
 }
 header > div > a{
 	padding: 2px;
+	font-size:xx-large;
+	color: darkturquoise;
 }
 
 body{
@@ -33,6 +35,8 @@ body{
 .foto{
 	border: 2px inset rgb(224, 224, 224);
 	align-content: center;
+	width: auto;
+	height: auto;
 }
 
 .info{
