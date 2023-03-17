@@ -6,6 +6,9 @@ header > div > a{
 	font-size:xx-large;
 	color: darkturquoise;
 }
+header > div > a:hover{
+	color: turquoise;
+}
 
 body{
 	background-color: #312c2c; 
