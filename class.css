@@ -23,8 +23,7 @@ body{
 .main{
 	border: 5px inset rgb(224, 224, 224);
 	padding: 1%;
-	margin-top: 2%; 
-	margin-left: 2%; 
+	margin: 1%; 
 	width: 70%;
 	height: auto;
 	align-content: center;
@@ -34,8 +33,7 @@ body{
 .content{
 	width: auto;
 	height: auto;
-	margin-top: 2%; 
-	margin-right: 2%; 
+	margin:1%;
 }
 .foto{
 	border: 2px inset rgb(224, 224, 224);
