@@ -1,0 +1,49 @@
+header{
+	padding-left:5%;
+}
+header > div > a{
+	padding: 8px;
+	font-size:xx-large;
+	color: darkturquoise;
+}
+header > div > a:hover{
+	color: turquoise;
+}
+#meulink{
+	color: #ce2d2d;
+}
+
+body{
+	background-color: #312c2c; 
+	color: #ce2d2d;
+}
+
+.all{
+	padding: 2%;
+	display: flex;
+}
+
+.main{
+	border: 5px inset rgb(224, 224, 224);
+	padding: 1%;
+	margin: 1%; 
+	width: 70%;
+	height: auto;
+	align-content: center;
+	text-align: justify;
+}
+
+.content{
+	width: auto;
+	height: auto;
+	margin:1%;
+}
+.foto{
+	border: 2px inset rgb(224, 224, 224);
+	align-content: center;
+}
+
+.info{
+	border: 2px inset rgb(224, 224, 224);
+	align-content: center;
+}
