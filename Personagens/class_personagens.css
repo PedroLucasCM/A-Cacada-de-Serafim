@@ -49,10 +49,11 @@ body{
 .main{
 	border: 5px inset rgb(224, 224, 224);
 	padding: 1%;
-	margin: 1%; 
-	width: 70%;
+	margin-left: 10%; 
+	margin-top: 5%;
 	height: auto;
-	align-content: center;
+	width: auto;
+	content-align: center;
 	text-align: justify;
 }
 
