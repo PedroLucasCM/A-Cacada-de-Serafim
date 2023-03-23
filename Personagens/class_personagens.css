@@ -9,6 +9,29 @@ header > div > a{
 header > div > a:hover{
 	color: turquoise;
 }
+
+li > a{
+	font-size: xx-large;
+	color : lightblue;
+}
+
+li > a:hover{
+	color : turquoise;
+}
+
+img{
+   display: none
+}
+
+a:hover img{
+   display: block;
+}
+
+th { 
+	font-size: xx-large;
+	padding: 8px;
+}
+
 #meulink{
 	color: #ce2d2d;
 }
