@@ -6,13 +6,18 @@ header > div > a{
 	font-size:xx-large;
 	color: darkturquoise;
 }
-header > div > a:hover{
+
+a{
+	color: darkturquoise;
+}
+
+a:hover{
 	color: turquoise;
 }
 
 body{
 	background-color: #312c2c; 
-	color: #ce2d2d;
+	color: #FFFFFF;
 }
 
 #meulink{
@@ -21,7 +26,17 @@ body{
 
 .all{
 	padding: 2%;
+	margin: 4%;
 	display: flex;
+	background-color: #423333;
+}
+
+p{
+	font-size: 18px;
+   	font-weight: 400;
+    	line-height: 1.75;
+    	margin: 0 0 24px;
+   	overflow-wrap: break-word;
 }
 
 .main{
@@ -47,4 +62,5 @@ body{
 .info{
 	border: 2px inset rgb(224, 224, 224);
 	align-content: center;
+	text-align: center;
 }

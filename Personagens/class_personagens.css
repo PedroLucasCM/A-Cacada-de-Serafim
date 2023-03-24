@@ -10,9 +10,10 @@ header > div > a:hover{
 	color: turquoise;
 }
 
+
 li > a{
 	font-size: xx-large;
-	color : lightblue;
+	color : rgb(220, 220, 220);
 }
 
 li > a:hover{
@@ -20,16 +21,23 @@ li > a:hover{
 }
 
 img{
-   display: none
+   	display: none;
+	width: 25%;
+	height: 25%;
 }
 
-a:hover img{
+li:hover img{
    display: block;
+}
+
+table{
+	width: 100%;
 }
 
 th { 
 	font-size: xx-large;
-	padding: 8px;
+	padding: 5px;
+	colspan="6";
 }
 
 #meulink{
@@ -49,10 +57,9 @@ body{
 .main{
 	border: 5px inset rgb(224, 224, 224);
 	padding: 1%;
-	margin-left: 10%; 
-	margin-top: 5%;
+	margin: 5%;
 	height: auto;
-	width: auto;
+	width: 100%;
 	content-align: center;
 	text-align: justify;
 }
