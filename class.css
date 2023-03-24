@@ -4,7 +4,6 @@ header{
 header > div > a{
 	padding: 8px;
 	font-size:xx-large;
-	color: darkturquoise;
 }
 
 a{
@@ -42,7 +41,8 @@ p{
 .main{
 	border: 5px inset rgb(224, 224, 224);
 	padding: 1%;
-	margin: 1%; 
+	margin: 1%;
+	min-width: 70%;
 	width: 70%;
 	height: auto;
 	align-content: center;
