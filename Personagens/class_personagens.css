@@ -1,0 +1,80 @@
+header{
+	padding-left:5%;
+}
+header > div > a{
+	padding: 8px;
+	font-size:xx-large;
+	color: darkturquoise;
+}
+header > div > a:hover{
+	color: turquoise;
+}
+
+
+li > a{
+	font-size: xx-large;
+	color : rgb(220, 220, 220);
+}
+
+li > a:hover{
+	color : turquoise;
+}
+
+img{
+   	display: none;
+	width: 25%;
+	height: 25%;
+}
+
+li:hover img{
+   display: block;
+}
+
+table{
+	width: 100%;
+}
+
+th { 
+	font-size: xx-large;
+	padding: 5px;
+	colspan="6";
+}
+
+#meulink{
+	color: #ce2d2d;
+}
+
+body{
+	background-color: #312c2c; 
+	color: #ce2d2d;
+}
+
+.all{
+	padding: 2%;
+	display: flex;
+}
+
+.main{
+	border: 5px inset rgb(224, 224, 224);
+	padding: 1%;
+	margin: 5%;
+	height: auto;
+	width: 100%;
+	content-align: center;
+	text-align: justify;
+}
+
+.content{
+	width: auto;
+	height: auto;
+	margin:1%;
+}
+.foto{
+	border: 2px inset rgb(224, 224, 224);
+	align-content: center;
+}
+
+.info{
+	border: 2px inset rgb(224, 224, 224);
+	align-content: center;
+}
